@@ -19,7 +19,7 @@ Privacy: https://reeltopus.com/privacy
   ```
   Then run `/mcp`, pick reeltopus and sign in. Or add only the server:
   `claude mcp add --transport http reeltopus https://reeltopus.com/api/mcp`
-- **Claude** (claude.ai, Desktop, mobile): Settings → Connectors → Add custom connector →
+- **Claude** (claude.ai, Desktop, mobile): Customize → Connectors → Add → Add custom connector →
   `https://reeltopus.com/api/mcp`
 - **ChatGPT**: chatgpt.com/plugins → + → Add custom MCP server → Public endpoint, the same URL, OAuth.
 - **Cursor**: the button above, or `~/.cursor/mcp.json`:
