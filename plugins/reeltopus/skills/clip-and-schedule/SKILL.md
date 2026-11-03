@@ -7,7 +7,7 @@ argument-hint: "[video file or name] [platform] [when]"
 # Clip the latest video and schedule the best clip
 
 Arguments, all optional, in any order: a video (a file path, or the name of a video already in Reeltopus), a
-platform (youtube, tiktok, instagram, linkedin, …) and a time ("tomorrow 9am", "friday 6pm", "now"): $ARGUMENTS
+platform (youtube or linkedin; other platforms when connected) and a time ("tomorrow 9am", "friday 6pm", "now"): $ARGUMENTS
 
 Use the `reeltopus` MCP tools. If they aren't available, tell the user to run `/mcp` and authenticate Reeltopus
 (or add it: `claude mcp add --transport http reeltopus https://reeltopus.com/api/mcp`), then stop.

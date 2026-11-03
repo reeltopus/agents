@@ -45,5 +45,5 @@ and `post_as_series` (in Claude Code: `/mcp__reeltopus__clip_and_schedule`).
 ## What it can do
 
 Check hours, upload or find videos, read ranked clips with transcripts, edit captions, trims, B-roll and looks,
-export MP4s, caption files and editor timelines, and schedule posts to connected YouTube, TikTok, Instagram,
-LinkedIn and other accounts. Agents ask before anything that posts or overwrites.
+export MP4s, caption files and editor timelines, and post or schedule to connected YouTube and LinkedIn
+accounts (for other platforms, download the MP4). Agents ask before anything that posts or overwrites.
