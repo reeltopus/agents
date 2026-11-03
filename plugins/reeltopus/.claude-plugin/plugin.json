@@ -1,0 +1,26 @@
+{
+  "name": "reeltopus",
+  "version": "1.2.0",
+  "description": "Clip videos into captioned vertical shorts with Reeltopus and schedule the best ones, from Claude Code. Includes the Reeltopus MCP server and two skills: clip-and-schedule and clip-a-video.",
+  "author": {
+    "name": "Turncraft Private Limited",
+    "email": "support@reeltopus.com",
+    "url": "https://reeltopus.com"
+  },
+  "homepage": "https://reeltopus.com/docs/api/mcp",
+  "license": "MIT",
+  "keywords": [
+    "video",
+    "clips",
+    "shorts",
+    "reels",
+    "tiktok",
+    "captions",
+    "social-media",
+    "scheduling",
+    "mcp"
+  ],
+  "repository": "https://github.com/reeltopus/agents",
+  "icon": "./.claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://reeltopus.com/privacy"
+}

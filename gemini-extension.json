@@ -1,0 +1,9 @@
+{
+  "name": "reeltopus",
+  "version": "1.2.0",
+  "description": "Turn long videos into captioned vertical clips, export them and post them.",
+  "contextFileName": "GEMINI.md",
+  "mcpServers": {
+    "reeltopus": { "httpUrl": "https://reeltopus.com/api/mcp" }
+  }
+}

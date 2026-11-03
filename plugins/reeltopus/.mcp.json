@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "reeltopus": { "type": "http", "url": "https://reeltopus.com/api/mcp" }
+  }
+}

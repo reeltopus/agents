@@ -1,0 +1,27 @@
+{
+  "name": "reeltopus",
+  "owner": {
+    "name": "Turncraft Private Limited",
+    "email": "support@reeltopus.com"
+  },
+  "plugins": [
+    {
+      "name": "reeltopus",
+      "source": "./plugins/reeltopus",
+      "description": "Clip your latest video and schedule the best clip, from Claude Code: the Reeltopus MCP server plus clip-and-schedule and clip-a-video skills.",
+      "version": "1.2.0",
+      "category": "productivity",
+      "keywords": [
+        "video",
+        "shorts",
+        "reels",
+        "captions",
+        "scheduling"
+      ]
+    }
+  ],
+  "metadata": {
+    "description": "Reeltopus plugins for Claude Code: clip videos into shorts and schedule them.",
+    "version": "1.2.0"
+  }
+}
