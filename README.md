@@ -1,5 +1,7 @@
 # Reeltopus for AI agents
 
+[![mcptry](https://mcptry.com/badge/com.reeltopus/mcp)](https://mcptry.com/servers/com.reeltopus/mcp)
+
 Reeltopus turns long videos into captioned vertical clips, exports them and posts them. It works with Claude,
 ChatGPT, Cursor and any MCP client. This repo holds the install files for agent tools; the server itself is
 remote: `https://reeltopus.com/api/mcp` (Streamable HTTP, OAuth sign-in or an API key).
